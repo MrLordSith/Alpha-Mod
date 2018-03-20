@@ -1,5 +1,5 @@
 # Alpha-Mod (Beta 1.7.3)
-------------------------
+--------------------------
 Here you can tell me issues and stuff about it.
 I would install it using MultiMC:
 -Open MultiMC
